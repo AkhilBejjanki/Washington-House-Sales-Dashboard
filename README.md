@@ -38,6 +38,4 @@ The Washington House Sales Dashboard offers valuable insights into the state’s
 - **/Visualizations**:![Wasington House Sales](https://github.com/user-attachments/assets/b0e914cd-781f-4015-9b21-ac3033be064f)
 - **README.md**: This file.
 
-## Acknowledgements
-- Credit any data sources, inspirations, or collaborators who contributed to the project.
 
